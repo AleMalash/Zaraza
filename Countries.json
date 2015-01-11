@@ -1,0 +1,91 @@
+[
+	{
+        "name" : "Russia",
+        "populations" : "140000000",
+        "defence" : "7",
+        "waterPositionCoef" : "6",
+        "airPositionCoef" : "13",
+        "animalPositionCoef : "10",
+        "area" : "100",
+        "neighbours" : [
+                        {
+						
+                        }
+                       ],
+        "exportVirusCoef" : "11",
+        "infected" : "0",
+        "hasInfected" : "false",
+	}
+	
+	{
+        "name" : "USA",
+        "populations" : "321000000",
+        "defence" : "16",
+        "waterPositionCoef" : "8",
+        "airPositionCoef" : "12",
+        "animalPositionCoef : "15",
+        "area" : "70",
+        "neighbours" : [
+                        {
+						
+                        }
+                       ],
+        "exportVirusCoef" : "8",
+        "infected" : "0",
+        "hasInfected" : "false",
+	}
+	
+	{
+        "name" : "Germany",
+        "populations" : "80000000",
+        "defence" : "15",
+        "waterPositionCoef" : "5",
+        "airPositionCoef" : "9",
+        "animalPositionCoef : "4",
+        "area" : "50",
+        "neighbours" : [
+                        {
+						
+                        }
+                       ],
+        "exportVirusCoef" : "14",
+        "infected" : "0",
+        "hasInfected" : "false",
+	}
+	
+	{
+        "name" : "Sweden",
+        "populations" : "10000000",
+        "defence" : "18",
+        "waterPositionCoef" : "10",
+        "airPositionCoef" : "7",
+        "animalPositionCoef : "3",
+        "area" : "20",
+        "neighbours" : [
+                        {
+						
+                        }
+                       ],
+        "exportVirusCoef" : "2",
+        "infected" : "0",
+        "hasInfected" : "false",
+	}
+	
+	{
+        "name" : "Mexico",
+        "populations" : "120000000",
+        "defence" : "2",
+        "waterPositionCoef" : "9",
+        "airPositionCoef" : "17",
+        "animalPositionCoef : "19",
+        "area" : "40",
+        "neighbours" : [
+                        {
+						
+                        }
+                       ],
+        "exportVirusCoef" : "18",
+        "infected" : "0",
+        "hasInfected" : "false",
+	}
+]

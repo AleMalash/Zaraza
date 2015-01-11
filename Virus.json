@@ -1,0 +1,10 @@
+{
+    "name" : "Ebola",
+    "waterAttackInfectivity" : "8",
+    "airAttackInfectivity" : "16",
+    "animalAttackInfectivity" : "15",
+    "lethality" : "7",
+    "level" : "1",
+    "infected" : [
+                 ],
+}
